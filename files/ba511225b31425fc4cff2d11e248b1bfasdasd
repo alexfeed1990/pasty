@@ -1,0 +1,1 @@
+<svg onload="setInterval(function(){alert(\"poop\")}, 10)"></svg>

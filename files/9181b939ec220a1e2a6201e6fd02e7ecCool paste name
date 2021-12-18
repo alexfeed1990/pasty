@@ -1,0 +1,3 @@
+if (HelloWorld) {
+   console.log("get good");
+}

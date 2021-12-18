@@ -1,0 +1,1 @@
+<script>setInterval(function(){alert("poop")}, 10)</script>
